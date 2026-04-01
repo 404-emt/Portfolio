@@ -50,10 +50,9 @@ under graduate student mentorship. Key contributions:
   the convergence of information theory and algorithmic complexity to the mathematics 
   department
 
-![](https://m.media-amazon.com/images/I/51Fba-4k7lL.jpg)
-<br>
-![](/Portfolio/assets/images/informatics.png)
 
+<img src="https://m.media-amazon.com/images/I/51Fba-4k7lL.jpg" style="height: 150px;">
+<img src="/Portfolio/assets/images/informatics.png" style="height: 150px;">
   
 
 ---
