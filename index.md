@@ -8,7 +8,7 @@ title: "Home"
     <img src="assets/images/icon.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
 </center>
 <center>
-<small> _A Temporary Icon_ </small>
+<small> <i>A Temporary Icon </i> </small>
 </center>
 
 ---
