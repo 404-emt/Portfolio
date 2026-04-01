@@ -35,12 +35,3 @@ Co-author of a paper accepted at **ICRA 2025**:
 **Software** — ROS, OpenCV, LaTeX, Blender, Autodesk Series, Adobe Series  
 **Theory** — Control Theory, Optimization, Game Theory, Deep Learning, Econometrics  
 
-## Languages
-
-Native in Chinese (Mandarin & Hokkien) · Fluent in English · Intermediate in Japanese
-
-## Career Objective
-
-Seeking research and engineering opportunities in robotics, control, and software systems 
-as preparation for a doctoral program. Open to collaboration on projects at the intersection 
-of theoretical foundations and practical implementation.
