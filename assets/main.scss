@@ -89,8 +89,8 @@ h6 {
 /* =====================
    段落与列表
    ===================== */
-p, blockquote, ul, ol, dl, table {
-    margin: 0.8em 0;
+p, ul, ol, dl, table {
+    
 }
 
 ul, ol {
@@ -116,6 +116,7 @@ li > ul {
    引用块
    ===================== */
 blockquote {
+    margin: 0.8em 0;
     font-family: Georgia, Times, serif;
     font-style: normal;
     border-left: 4px solid #dfe2e5;
