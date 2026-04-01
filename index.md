@@ -25,9 +25,9 @@ Experienced in translating rigorous analytical thinking into practical implement
 > ---Kant
 
 
-</br>
-</br>
-</br>
+<br>
+<br>
+<br>
 
 <center>
 <a href="about/">About Me</a> | 
