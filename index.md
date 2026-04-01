@@ -7,7 +7,7 @@ title: "Home"
 <figure>
     <center>
     <img src="assets/images/icon.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-    <figcaption> A Temporary Icon </figcaption>
+    <figcaption> _A Temporary Icon_ </figcaption>
     </center>
 </figure>
 
