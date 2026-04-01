@@ -30,7 +30,7 @@ students investigating control systems in robotic design. My contributions inclu
 * Achieved **100% turn completion success rate** with leader-switching enabled, 
   compared to 33.3% without, with area RMSE reduced from 2.06–2.56 to 0.14–0.28
 
-![](Portfolio/assets/images/blimp.png)
+![](/Portfolio/assets/images/blimp.png)
 
 ---
 
