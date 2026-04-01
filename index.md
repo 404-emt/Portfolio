@@ -24,8 +24,8 @@ Experienced in translating rigorous analytical thinking into practical implement
 
 
 <center>
-<a href="/about/">About Me</a> | 
-<a href="/resume/">Resume</a> | 
-<a href="/goals/">Career Goal</a> | 
-<a href="/projects/">Projects</a>
+<a href="about/">About Me</a> | 
+<a href="resume/">Resume</a> | 
+<a href="goals/">Career Goal</a> | 
+<a href="projects/">Projects</a>
 </center>
