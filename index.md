@@ -8,7 +8,7 @@ layout: home
 
 ---
 
-<center><h1> Joshua Zhan </h1></center>
+<center><h1> The Owner of this Page and its Surroundings </h1></center>
 
 
 <center>
