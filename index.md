@@ -14,6 +14,11 @@ title: "Home"
 
 **Dual Degree Program** · Georgia Tech + Emory University BA
 
+<center>
+<img src="https://brand.gatech.edu/sites/default/files/inline-images/extended-RGB.png" style="height: 150px;">
+<img src="https://arogyaworld.org/wp-content/uploads/2020/02/emory-university-logo.png" style="height: 150px;">
+</center>
+
 Interests:
 * Algorithms & Computation
 * Control & Robotics
