@@ -8,4 +8,4 @@ permalink: /resume/
 
 [Download PDF](/assets/resume.pdf)
 
-<iframe src="/assets/resume.pdf" width="100%" height="800px"></iframe>
+<iframe src="assets/documents/ECE Resume.pdf" width="100%" height="800px"></iframe>
