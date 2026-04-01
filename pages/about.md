@@ -4,6 +4,12 @@ title: "About Me"
 permalink: /about/
 ---
 
+Dual-degree student in Economics and Computer Engineering with demonstrated research 
+experience, including co-authorship of a paper accepted at ICRA 2025. Strongly interested 
+in the theoretical foundations of algorithms, computation, control, and robotics, and 
+experienced in translating rigorous analytical thinking into practical implementation. 
+Eager to contribute to research and engineering efforts in robotics, control, and software 
+systems as preparation for a future PhD path.
 
 ## Education
 
@@ -27,11 +33,4 @@ Co-author of a paper accepted at **ICRA 2025**:
 
 <img src="https://images.squarespace-cdn.com/content/v1/6303dfe67e33741f9d4a2eed/1738016732659-BB4BDX7KUJCOC4VZCX72/ICRA+2025.png"  style="width: 50%;">
 
-## Technical Skills
-
-**Programming** — Python, Java, C, Rust, Go, MATLAB, Full-stack Web Development  
-**Platforms** — Linux (Ubuntu, Arch, Debian), Windows, MacOS  
-**Hardware** — Raspberry Pi, PCB, RISC-V, 3D Printing (FDM/SLA), Laser Cutting  
-**Software** — ROS, OpenCV, LaTeX, Blender, Autodesk Series, Adobe Series  
-**Theory** — Control Theory, Optimization, Game Theory, Deep Learning, Econometrics  
 
