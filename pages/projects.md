@@ -21,6 +21,14 @@ students investigating control systems in robotic design. My contributions inclu
 - Researching frontier works in control theory and robotic design
 - Deepening understanding of current robotics academia and industry landscape
 - Co-authoring a published paper with graduate researchers on innovative control approaches
+* Designed a **dynamic leader-switching algorithm** for a 3-blimp indoor swarm, 
+  allowing any blimp to assume the leader role during sharp turns to distribute 
+  maneuvering demands and maintain formation stability
+* Implemented **monocular camera-based relative position estimation** combined with 
+  a laser altimeter, eliminating the need for expensive external localization systems 
+  such as OptiTrack
+* Achieved **100% turn completion success rate** with leader-switching enabled, 
+  compared to 33.3% without, with area RMSE reduced from 2.06–2.56 to 0.14–0.28
 
 ![](Portfolio/assets/images/blimp.png)
 
