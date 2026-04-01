@@ -22,14 +22,7 @@ students investigating control systems in robotic design. My contributions inclu
 - Deepening understanding of current robotics academia and industry landscape
 - Co-authoring a published paper with graduate researchers on innovative control approaches
 
-**Publication:** Wu, T., Fu, J., Meng, W., Cho, S., Zhan, H., & Zhang, F. (2025). 
-*Design of a Formation Control System to Assist Human Operators in Flying a Swarm 
-of Robotic Blimps.* arXiv:2505.09511. (Accepted at ICRA 2025)
-
-<figure>
-  <img src="https://images.squarespace-cdn.com/content/v1/6303dfe67e33741f9d4a2eed/1738016732659-BB4BDX7KUJCOC4VZCX72/ICRA+2025.png" style="width: 50%;">
-  <figcaption>ICRA 2025 — International Conference on Robotics and Automation</figcaption>
-</figure>
+![](blimp.png)
 
 ---
 
