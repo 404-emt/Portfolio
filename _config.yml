@@ -8,8 +8,8 @@ minima:
 
 # 导航栏页面
 header_pages:
-  - assets/pages/about.md
-  - assets/pages/resume.md
-  - assets/pages/goals.md
+  - pages/about.md
+  - pages/resume.md
+  - pages/goals.md
 
 # 加你自己的 CSS assets/css/style.scss
