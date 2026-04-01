@@ -5,10 +5,10 @@ title: "Home"
 
 
 <figure>
-  <center>
-  <img src="assets/images/icon.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-  </center>
-  <figcaption>A temporary icon</figcaption>
+    <center>
+    <img src="assets/images/icon.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    </center>
+    <figcaption>A Temporary Icon</figcaption>
 </figure>
 
 ---
