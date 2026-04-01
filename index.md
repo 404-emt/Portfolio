@@ -11,7 +11,7 @@ layout: home
 <center><h1> The Owner of this Page and its Surroundings </h1></center>
 
 
-**ECE & Economics** · Georgia Tech + Emory University BA
+**Dual Degree Program** · Georgia Tech + Emory University BA
 
 Interests:
 * Algorithms & Computation
@@ -22,5 +22,8 @@ Experienced in translating rigorous analytical thinking into practical implement
 
 
 <center>
-[About Me]() | [Resume]() | [Career Goal]() | [Projects]()
+<a href="/about/">About Me</a> | 
+<a href="/resume/">Resume</a> | 
+<a href="/goals/">Career Goal</a> | 
+<a href="/projects/">Projects</a>
 </center>
