@@ -93,6 +93,12 @@ p, ul, ol, dl, table {
     
 }
 
+figcaption {
+    color: #777777;
+    font-style: italic;
+    font-size: 0.9em;
+}
+
 ul, ol {
     padding-left: 30px;
 }
@@ -123,11 +129,7 @@ blockquote {
     padding: 0 15px;
     color: #777777;
 }
-figcaption {
-    color: #777777;
-    font-style: italic;
-    font-size: 0.9em;
-}
+
 
 /* =====================
    分割线
