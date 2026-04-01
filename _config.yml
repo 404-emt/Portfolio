@@ -11,18 +11,5 @@ header_pages:
   - assets/pages/about.md
   - assets/pages/resume.md
   - assets/pages/goals.md
-```
 
-**第四步：Settings → Pages**
-
-把 Source 设置为 **Deploy from a branch**，选 `main` 分支，`/ (root)`，保存。
-
-Push 之后 1-2 分钟自动上线，不需要任何本地环境。
-
----
-
-### 加你自己的 CSS
-
-在根目录建这个文件：
-```
-assets/css/style.scss
+# 加你自己的 CSS assets/css/style.scss
