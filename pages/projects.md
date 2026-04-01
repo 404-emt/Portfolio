@@ -22,7 +22,7 @@ students investigating control systems in robotic design. My contributions inclu
 - Deepening understanding of current robotics academia and industry landscape
 - Co-authoring a published paper with graduate researchers on innovative control approaches
 
-![blimp](assets/images/blimp.png)
+![](Portfolio/assets/images/blimp.png)
 
 ---
 
