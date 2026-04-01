@@ -11,14 +11,16 @@ layout: home
 <center><h1> The Owner of this Page and its Surroundings </h1></center>
 
 
+**ECE & Economics** · Georgia Tech + Emory University BA
+
+Interests:
+* Algorithms & Computation
+* Control & Robotics
+* Machine Learning
+
+Experienced in translating rigorous analytical thinking into practical implementation.
+
+
 <center>
-This is Joshua, a courious currently first semester dual degree student in <u>Georgia</u> Institute of <u>Tech</u>nology and owner of Economics BA from <u>Emory University</u>.
-  
-I am excited and enthusiastic to learn about theoretical foundations of algorithms, computation, control, machine learning and robotics, and experienced in translating rigorous analytical thinking into practical implementation. 
+[About Me]() | [Resume]() | [Career Goal]() | [Projects]()
 </center>
-
-* [About Me]()
-* [Resume]()
-* [Career Goal]()
-* [Projects]()
-
