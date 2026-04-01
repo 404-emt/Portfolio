@@ -8,6 +8,7 @@ minima:
 
 # 导航栏页面
 header_pages:
+  - index.md
   - pages/about.md
   - pages/resume.md
   - pages/goals.md
