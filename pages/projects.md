@@ -13,7 +13,6 @@ computer science.
 ## Research Experience
 
 ### Formation Control for Robotic Blimp Swarms
-**HKUST Cheng Kar-Shun Robotics Institute** · Hong Kong, China · 2024–Present
 
 Under the direction of the CKSRI Director, I joined a research group led by doctoral 
 students investigating control systems in robotic design. My contributions include:
@@ -35,7 +34,6 @@ students investigating control systems in robotic design. My contributions inclu
 ---
 
 ### Information Theory & Theoretical Computer Science
-**Emory Math Directed Reading Program (DRP)** · Georgia, USA · 2025
 
 Selected for a competitive faculty mentoring program conducting independent research 
 under graduate student mentorship. Key contributions:
@@ -46,6 +44,8 @@ under graduate student mentorship. Key contributions:
 - Synthesized mathematical proofs and presented a comprehensive technical review on 
   the convergence of information theory and algorithmic complexity to the mathematics 
   department
+
+  
 
 ---
 
