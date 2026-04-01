@@ -50,6 +50,8 @@ under graduate student mentorship. Key contributions:
   the convergence of information theory and algorithmic complexity to the mathematics 
   department
 
+  ![](https://www.amazon.com/Thomas-M-Cover-Elements-Information/dp/B00HTK9U28)
+
   
 
 ---
