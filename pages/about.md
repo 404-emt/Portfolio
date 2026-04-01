@@ -4,11 +4,6 @@ title: "About Me"
 permalink: /about/
 ---
 
-## Overview
-
-This ePortfolio documents my academic background, research contributions, and technical 
-experience. It is intended for recruiters, faculty, and collaborators with interests in 
-robotics, control systems, and software engineering.
 
 ## Education
 
