@@ -25,7 +25,7 @@ Co-author of a paper accepted at **ICRA 2025**:
 > Control System to Assist Human Operators in Flying a Swarm of Robotic Blimps.* 
 > arXiv:2505.09511.
 
-<img src="https://images.squarespace-cdn.com/content/v1/6303dfe67e33741f9d4a2eed/1738016732659-BB4BDX7KUJCOC4VZCX72/ICRA+2025.png" style="width: 0.5; height: 0.5; ">
+<img src="https://images.squarespace-cdn.com/content/v1/6303dfe67e33741f9d4a2eed/1738016732659-BB4BDX7KUJCOC4VZCX72/ICRA+2025.png"  style="width: 50%;">
 
 ## Technical Skills
 
