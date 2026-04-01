@@ -12,7 +12,7 @@ title: "Home"
 <center><h1> Joshua Zhan </h1></center>
 
 
-**Dual Degree Program** · Georgia Tech + Emory University BA
+**Dual Degree Program** · Georgia Tech (CompE BS) + Emory University (Economics BA)
 
 <center>
 <img src="https://brand.gatech.edu/sites/default/files/inline-images/extended-RGB.png" style="height: 150px;">
