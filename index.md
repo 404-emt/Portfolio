@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<center># About Me </center>
+<center><h1> About Me <h1></center>
 
 This is Joshua, a passionate currently first semester student in **Georgia** Institute of **Tech**nology.
 
