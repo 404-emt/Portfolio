@@ -9,8 +9,13 @@ involvement. My work spans robotics, control systems, big data, and theoretical
 computer science.
 
 ---
+### 3D Printing Theory and its Surroundings
+This is the creative project for ECE 1100.
+> Still Progressing ...
 
-## Research Experience
+---
+
+## Research Experience and Projects
 
 ### Formation Control for Robotic Blimp Swarms
 
@@ -49,31 +54,7 @@ under graduate student mentorship. Key contributions:
 
 ---
 
-### Big Data Classification & Algorithm Research
-**National Information Center, Big Data Research Institute** · Shenzhen, China · 2021–2024
 
-Engaged in research on big data and artificial intelligence under the guidance of the 
-Head of Research Institute and graduate students. Contributed to reports outlining 
-improved algorithms for data classification.
-
----
-
-### AI & Entrepreneurship Research
-**Sunway World** · Beijing, China · 2022–2024
-
-Researched frontier entrepreneurial development of AI and big data within a listed 
-company. Contributed to a **patent** on using artificial methods to identify data 
-linkage within large datasets.
-
----
-
-### Industry AI Research
-**Huafu Technology** · Shenzhen, China · 2023
-
-Worked within the AI algorithm department, gaining direct exposure to current AI 
-industry practices and frontier research directions.
-
----
 
 ## Organization Involvement
 
