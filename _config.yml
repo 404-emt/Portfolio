@@ -1,6 +1,6 @@
 title: Portfolio
 description: ECE Student at Georgia Tech
-theme: minima
+remote_theme: jekyll/minima
 
 # minima 主题配置
 minima:
