@@ -3,13 +3,14 @@ layout: home
 title: "Home"
 ---
 
+<center>
+<figure>
+  <img src="assets/images/icon.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+  <figcaption>A Temporary Icon</figcaption>
+</figure>
+</center>
 
-<center>
-    <img src="assets/images/icon.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-</center>
-<center>
-<small> <i>A Temporary Icon </i> </small>
-</center>
+    
 
 ---
 
