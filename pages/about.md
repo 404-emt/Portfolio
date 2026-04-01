@@ -1,1 +1,6 @@
-<h1> About Me </h1>
+---
+layout: pages
+title: "About Me"
+permalink: /about/
+---
+
