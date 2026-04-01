@@ -51,8 +51,8 @@ under graduate student mentorship. Key contributions:
   department
 
 
-<img src="https://m.media-amazon.com/images/I/51Fba-4k7lL.jpg" style="height: 200px;">
-<img src="/Portfolio/assets/images/informatics.png" style="height: 200px;">
+<img src="https://m.media-amazon.com/images/I/51Fba-4k7lL.jpg" style="height: 250px;">
+<img src="/Portfolio/assets/images/informatics.png" style="height: 250px;">
   
 
 ---
