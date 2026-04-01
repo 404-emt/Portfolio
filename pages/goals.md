@@ -12,7 +12,7 @@ a serious candidate.
 
 ## Long-Term Vision
 
-Become a research scientist or professor working on autonomous systems, control theory, 
+Become a research scientist or professor working on autonomous systems, machine learning, control theory, 
 or robotics — contributing both to academic knowledge and to real-world engineering.
 
 ## Milestones & Timeline
