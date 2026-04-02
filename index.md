@@ -33,9 +33,9 @@ Experienced in translating rigorous analytical thinking into practical implement
 
 > _"Two things fill the mind with ever new and increasing admiration and awe, the more often and the more seriously reflection concentrates upon them: the starry heaven above me and the moral law within me"_
 >
->                                                                                                                                                                                                                 ---Kant
-> "'But cannot one learn philosophy?'
-> 'Philosophy cannot be taught; it is the application of the sciences to truth; it is like the golden cloud in which the Messiah went up into heaven.'"
+<br>                                                                                                                                                                                                                ---Kant
+> _"'But cannot one learn philosophy?'_
+> _'Philosophy cannot be taught; it is the application of the sciences to truth; it is like the golden cloud in which the Messiah went up into heaven.'"_
 >                                                                                                                                                         --- Alexandre Dumas
 
 
