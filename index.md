@@ -31,11 +31,15 @@ Interests:
 
 Experienced in translating rigorous analytical thinking into practical implementation.
 
+<br>
+<br>
+<br>
+
 > *"Two things fill the mind with ever new and increasing admiration and awe,
 > the more often and the more seriously reflection concentrates upon them:
 > the starry heaven above me and the moral law within me"*
 >
-> <cite style="display:block;text-align:right">— Kant</cite>
+> <cite style="display:block;text-align:right;font-style:normal">&mdash; Kant</cite>
 >
 > ---
 > 
@@ -43,7 +47,7 @@ Experienced in translating rigorous analytical thinking into practical implement
 > *'Philosophy cannot be taught; it is the application of the sciences to
 > truth; it is like the golden cloud in which the Messiah went up into heaven.'"*
 >
-> <cite style="display:block;text-align:right">— Alexandre Dumas</cite>
+> <cite style="display:block;text-align:right;font-style:normal">&mdash; Alexandre Dumas</cite>
 
 
 <br>
