@@ -14,7 +14,7 @@ title: "Home"
 
 ---
 
-<center><h1> Joshua Zhan </h1></center>
+<center><h1> @e </h1></center>
 
 
 **Dual Degree Program** · Georgia Tech (CompE BS) + Emory University (Economics BA)
@@ -31,9 +31,12 @@ Interests:
 
 Experienced in translating rigorous analytical thinking into practical implementation.
 
-> _Two things fill the mind with ever new and increasing admiration and awe, the more often and the more seriously reflection concentrates upon them: the starry heaven above me and the moral law within me_
+> _"Two things fill the mind with ever new and increasing admiration and awe, the more often and the more seriously reflection concentrates upon them: the starry heaven above me and the moral law within me"_
 >
-> ---Kant
+>                                                                                                                                                                                                                 ---Kant
+> "'But cannot one learn philosophy?'
+> 'Philosophy cannot be taught; it is the application of the sciences to truth; it is like the golden cloud in which the Messiah went up into heaven.'"
+>                                                                                                                                                         --- Alexandre Dumas
 
 
 <br>
