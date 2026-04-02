@@ -36,7 +36,7 @@ Experienced in translating rigorous analytical thinking into practical implement
 >                                                                                                                                                                                                                
 > _"'But cannot one learn philosophy?'_
 > _'Philosophy cannot be taught; it is the application of the sciences to truth; it is like the golden cloud in which the Messiah went up into heaven.'"_
->                                                                                                                                                         --- Alexandre Dumas
+><div style="text-align: right;">---Alexandre Dumas</div>
 
 
 <br>
