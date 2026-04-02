@@ -36,7 +36,9 @@ Experienced in translating rigorous analytical thinking into practical implement
 > the starry heaven above me and the moral law within me"*
 >
 > <cite style="display:block;text-align:right">— Kant</cite>
-
+>
+> ---
+> 
 > *"'But cannot one learn philosophy?'*  
 > *'Philosophy cannot be taught; it is the application of the sciences to
 > truth; it is like the golden cloud in which the Messiah went up into heaven.'"*
