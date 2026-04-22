@@ -8,34 +8,6 @@ This page documents my research experience, technical projects, and organization
 involvement. My work spans robotics, control systems, big data, and theoretical 
 computer science.
 
----
-### Analytical Auto differentiation Application and Its Surroundings
-
-Idea
-
--   Encountered automatic differentiation in ML coursework but found no textbook treated it with sufficient mathematical depth
--   Set out to understand AD completely from theory to implementation, and to answer why reverse-mode dominates modern ML
-
-Progress
-
--   Built theoretical foundation from computational graphs and chain rule up
--   Implemented both forward-mode and reverse-mode AD within a single unified framework, with operator overloading to build the graph naturally
--   Used PyTorch tensors purely as a CUDA backend — all differentiation logic hand-written
--   Designed controlled experiments comparing both modes; verified full Jacobian correctness numerically
-    ![](/Portfolio/assets/images/ad_comparison.png)
--   Visualized forward and backward propagation simultaneously on a [4→6→6→1] MLP
-    ![](/Portfolio/assets/images/ad_mlp.gif)
-
-Successes and Failures
-
--   Successfully reproduced a GPU-accelerated autograd engine with both modes, operator overloading, and unified graph structure
--   Finding physically meaningful benchmark cases that honestly demonstrated the computational trade-off required significant iteration — several candidates including Burgers equation and wave superposition had structural issues
-
-ECE Skills Gained
-
--   Computational graph design · Jacobian-vector product derivation · Complexity analysis
--   GPU-aware programming
--   Controlled benchmark design · Numerical precision handling · Scientific visualisation · Engineering practicity analysis 
 
 ---
 
@@ -78,6 +50,36 @@ under graduate student mentorship. Key contributions:
 <img src="https://m.media-amazon.com/images/I/51Fba-4k7lL.jpg" style="height: 300px;">
 <img src="/Portfolio/assets/images/informatics.png" style="height: 300px;">
   
+
+---
+## Discovery Project
+### Analytical Auto differentiation Application and Its Surroundings
+
+Idea
+
+-   Encountered automatic differentiation in ML coursework but found no textbook treated it with sufficient mathematical depth
+-   Set out to understand AD completely from theory to implementation, and to answer why reverse-mode dominates modern ML
+
+Progress
+
+-   Built theoretical foundation from computational graphs and chain rule up
+-   Implemented both forward-mode and reverse-mode AD within a single unified framework, with operator overloading to build the graph naturally
+-   Used PyTorch tensors purely as a CUDA backend — all differentiation logic hand-written
+-   Designed controlled experiments comparing both modes; verified full Jacobian correctness numerically
+    ![](/Portfolio/assets/images/ad_comparison.png)
+-   Visualized forward and backward propagation simultaneously on a [4→6→6→1] MLP
+    ![](/Portfolio/assets/images/ad_mlp.gif)
+
+Successes and Failures
+
+-   Successfully reproduced a GPU-accelerated autograd engine with both modes, operator overloading, and unified graph structure
+-   Finding physically meaningful benchmark cases that honestly demonstrated the computational trade-off required significant iteration — several candidates including Burgers equation and wave superposition had structural issues
+
+ECE Skills Gained
+
+-   Computational graph design · Jacobian-vector product derivation · Complexity analysis
+-   GPU-aware programming
+-   Controlled benchmark design · Numerical precision handling · Scientific visualisation · Engineering practicity analysis 
 
 ---
 
