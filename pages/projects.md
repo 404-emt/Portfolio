@@ -19,7 +19,7 @@ Idea
 Progress
 
 -   Built theoretical foundation from computational graphs and chain rule up
--   Implemented both forward-mode and reverse-mode AD within a single unified framework, with operator overloading so expressions like `f = theta**2 + 3*theta` build the graph naturally
+-   Implemented both forward-mode and reverse-mode AD within a single unified framework, with operator overloading to build the graph naturally
 -   Used PyTorch tensors purely as a CUDA backend — all differentiation logic hand-written
 -   Designed controlled experiments comparing both modes; verified full Jacobian correctness numerically
     ![](/Portfolio/assets/images/ad_comparison.png)
@@ -34,8 +34,8 @@ Successes and Failures
 ECE Skills Gained
 
 -   Computational graph design · Jacobian-vector product derivation · Complexity analysis
--   API design · Separation of concerns · GPU-aware programming
--   Controlled benchmark design · Numerical precision handling · Scientific visualisation
+-   GPU-aware programming
+-   Controlled benchmark design · Numerical precision handling · Scientific visualisation · Engineering practicity analysis 
 
 ---
 
