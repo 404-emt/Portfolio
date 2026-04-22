@@ -9,9 +9,33 @@ involvement. My work spans robotics, control systems, big data, and theoretical
 computer science.
 
 ---
-### 3D Printing Theory and its Surroundings
-This is the creative project for ECE 1100.
-> Still Progressing ...
+### Analytical Auto differentiation Application and Its Surroundings
+
+Idea
+
+-   Encountered automatic differentiation in ML coursework but found no textbook treated it with sufficient mathematical depth
+-   Set out to understand AD completely from theory to implementation, and to answer why reverse-mode dominates modern ML
+
+Progress
+
+-   Built theoretical foundation from computational graphs and chain rule up
+-   Implemented both forward-mode and reverse-mode AD within a single unified framework, with operator overloading so expressions like `f = theta**2 + 3*theta` build the graph naturally
+-   Used PyTorch tensors purely as a CUDA backend — all differentiation logic hand-written
+-   Designed controlled experiments comparing both modes; verified full Jacobian correctness numerically
+    ![](/Portfolio/assets/images/ad_comparison.png)
+-   Visualized forward and backward propagation simultaneously on a [4→6→6→1] MLP
+    ![](/Portfolio/assets/images/ad_mlp.gif)
+
+Successes and Failures
+
+-   Successfully reproduced a GPU-accelerated autograd engine with both modes, operator overloading, and unified graph structure
+-   Finding physically meaningful benchmark cases that honestly demonstrated the computational trade-off required significant iteration — several candidates including Burgers equation and wave superposition had structural issues
+
+ECE Skills Gained
+
+-   Computational graph design · Jacobian-vector product derivation · Complexity analysis
+-   API design · Separation of concerns · GPU-aware programming
+-   Controlled benchmark design · Numerical precision handling · Scientific visualisation
 
 ---
 
