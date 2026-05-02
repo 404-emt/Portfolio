@@ -81,6 +81,15 @@ ECE Skills Gained
 -   GPU-aware programming
 -   Controlled benchmark design · Numerical precision handling · Scientific visualisation · Engineering practicity analysis 
 
+### Reproduction of Classical CNN Models: A Storyline from Image Classification to Object Detection
+* Constructed a systematic framework that traces the architectural evolution of Computer Vision, analyzing the transition from classical convolutional stacking to residual learning paradigms to understand how deep networks overcome optimization hurdles.
+* Implemented the ResNet-18 architecture from first principles using PyTorch, specifically engineering custom identity shortcuts and residual blocks to address the degradation problem and ensure efficient gradient flow across deep layers.
+* Engineered a robust deep learning workflow incorporating sophisticated data augmentation (Torchvision), stochastic optimization, and regularization techniques to maximize model generalization and training stability across diverse image datasets.
+* Conducted in-depth diagnostic analytics on training dynamics, leveraging mathematical rigor to interpret loss convergence and accuracy metrics, which informed precise hyperparameter tuning and validated the model’s reliability.
+* Established a scalable evaluation framework designed to bridge the gap between image classification and high-level perception tasks, providing a foundation for transitioning toward high-precision object detection and localization architectures.
+
+---
+
 ---
 
 
