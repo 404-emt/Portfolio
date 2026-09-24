@@ -4,7 +4,7 @@ theme: minima
 
 # minima 主题配置
 minima:
-  skin: classic    # 可选 classic / dark / solarized / solarized-dark
+  skin: classic    # classic / dark / solarized / solarized-dark
 
 # 导航栏页面
 header_pages:
@@ -14,4 +14,7 @@ header_pages:
   - pages/goals.md
   - pages/projects.md
 
-# 加你自己的 CSS assets/css/style.scss
+# CSS: assets/css/style.scss
+
+kramdown:
+  math_engine: mathjax
