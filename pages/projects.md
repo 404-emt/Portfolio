@@ -79,7 +79,7 @@ ECE Skills Gained
 
 -   Computational graph design · Jacobian-vector product derivation · Complexity analysis
 -   GPU-aware programming
--   Controlled benchmark design $\cdot$ Numerical precision handling $\cdot$ Scientific visualisation · Engineering practicity analysis 
+-   Controlled benchmark design · Numerical precision handling · Scientific visualisation · Engineering practicity analysis 
 
 ---
 
